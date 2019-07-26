@@ -5,5 +5,8 @@ dependencies:
   - python=3.7.3
   - numpy
   - pandas
+  - jupyter
   - matplotlib
   - arm_pyart
+  - pip:
+    - nexradaws
